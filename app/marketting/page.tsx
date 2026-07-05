@@ -1,5 +1,5 @@
-export default function MarkettingPage() {
+export default function page() {
   return (
-    <div>MarkettingPage</div>
+    <div>page</div>
   )
 }
