@@ -3,7 +3,7 @@ export default function Error() {
     <h1>Error</h1>
     <p>Something went wrong</p>
     <button onClick={() => {
-      router.back();
+      window.location.href = '/';
     }}>Go to Home</button>
   </div>;
 }     
