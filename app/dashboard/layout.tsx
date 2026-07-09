@@ -6,7 +6,7 @@ export default function DashboardLayout({
   return (
     <div>
    <div className="flex">
-    <aside>Sidebar</aside>
+    {/* <aside>Sidebar</aside> */}
     <main>{children}</main>
     </div>
     </div>
